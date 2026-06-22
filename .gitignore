@@ -1,0 +1,25 @@
+# KiCad lock files
+*.lck
+
+# KiCad local/private settings
+*.kicad_prl
+
+# KiCad backup/history
+.history/
+*.bak
+*.tmp
+*.autosave
+*-save.pro
+*-save.kicad_pcb
+*-save.kicad_sch
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Generated reports / manufacturing drill files
+*.rpt
+*.drl
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
